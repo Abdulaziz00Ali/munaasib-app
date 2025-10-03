@@ -1,0 +1,39 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.weddingHalls = void 0;
+exports.weddingHalls = [
+    {
+        "id": "73096601-da09-4497-aeed-5db514266ff7",
+        "name": "قصر المملكة للافراح والمناسبات",
+        "category": "hall",
+        "neighborhood": "البساتين",
+        "photoUrls": [
+            "https://lh3.googleusercontent.com/place-photos/AJnk2cw0T9j1KuYeCd5YIv-U_gQSajUs5o_kV_xoLB1PQDPzpBv7WN_x0ACFt68Nv_XJvlRNfCeFQQBiadES0p4On4-6SKrFzIAbwKBInH8K4uCVXLchXVdQosDPphRQUjZU4Q0eprxVOJ97lu9xkIQ=s1600-w400",
+            "https://lh3.googleusercontent.com/place-photos/AJnk2cxiTQRFBQwyp_ae2gdecgD_uGaMpX_IVfCD9Ap1F6V4ZD2qvc5Js691T2DvRIFnfI10g9OyeCnwVoI_5x1fPMDtN494RXEP3t3iP82k6FavRBv3yo8QWkQ82LLAvPloV-QOCK4cxKq643okx3s=s1600-w400",
+            "https://lh3.googleusercontent.com/place-photos/AJnk2cxVvujI_UxcV3MEumPJCm7hsRJARL8S9vDJ5zwSe89aWXx7FD8NFwB3XvS1XHlxLaQLX8-CWSAxtTSin4LxsRsGaYaSzcnJqVtBM35_fMzie_B_hWeE0kqRJMPxrXsHVViazbf_XjIpn38ds6s=s1600-w400",
+            "https://lh3.googleusercontent.com/place-photos/AJnk2cxhcBiiM28AVVMy1T7ZKYICrbKmHy_qFwnTFZHi5y5UTUOjb06bMeb4qzoHscboy07M7JuOe3wzsENwPWvBFx3YV64OeGcZTicWuGFP7nCtGH8jcHK0-5NoPASB41YQaJ5xN4CUWyyRt1Oa-g=s1600-w400",
+            "https://lh3.googleusercontent.com/place-photos/AJnk2cwc_6bAxP9JfxxVsA1ohixD7xOj7xP3HdeCMrUOD5uhqAdbOB0J6T3dqPLfWcQfYPPnia1Ls5SkujsQWhHfEg2dKD1NPGtBWfRuMgCkKfb1zeW5t8-to_YZwAw_vqY3MjWgCDF4FORs7tYq=s1600-w400"
+        ],
+        "reviews": [
+            {
+                "author_name": "Talal Alali",
+                "rating": 5,
+                "text": "قاعه كبيرة وجديده وفخمة ماشاء الله اشكر الاستاذ محمود على وعده بترتيب القاعة بالوقت المحدد والتنسيق بكل الاوقات الى نهاية حفل الزواج الحمدلله واشكر العمال على تنظيف القاعة بشكل مستمر والقيام على ضيافة الضيوف طوال وقت المناسبة. وايضا الحمدلله توفقنا بإختيار القاعة حيث توجد الكراسي المرتبة بشكل كامل وايضا راحتها ومناسبة الوانها مع المكان وايضا وجود صالة الطعام التي تم الترتيب والتأكيد على العدد مع قبل إدارة القصر وإمكانية زيادة العدد للطاولات عند الحاجة بأي وقت ووجود المواقف والواسعة التي تلبي احتياجات الضيوف",
+                "relative_time_description": "خلال الأسبوع الماضي"
+            }
+        ],
+        "description": "",
+        "rating": 4.6,
+        "price": 0,
+        "capacity": {
+            "min": 0,
+            "max": 0
+        },
+        "location": "البساتين",
+        "city": "Tabuk",
+        "lat": 28.3687375,
+        "lng": 36.5542207,
+        "googleMapsUrl": "https://maps.google.com/?cid=12566025384648974627",
+        "place_id": "ChIJWWvHNKutqRURIyGLeoJ9Y64"
+    }
+];

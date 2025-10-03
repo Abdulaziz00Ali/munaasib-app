@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  <rect x="48" y="80" width="1104" height="480" fill="#e5e7eb"/>
+  <text x="600" y="320" font-size="22" text-anchor="middle" fill="#6b7280" font-family="Tahoma, Arial">Map Placeholder (Google Maps Disabled in Demo)</text>
+  <path d="M600 220 c-24 0-44 20-44 44 0 36 44 96 44 96s44-60 44-96c0-24-20-44-44-44z" fill="#ef4444"/>
+  <circle cx="600" cy="264" r="16" fill="#ffffff"/>
+</svg>

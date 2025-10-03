@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": true,
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
+  "include": ["vite.config.ts", "scripts/processData.ts", "src/**/*.ts", "src/**/*.tsx", "scripts/processAndEnrichData.ts", "scripts/fixHalls.ts", "scripts/enrichAndProcessData.ts", "scripts/updateVenuesWithImages.ts", "scripts/downloadImages.ts", "scripts/optimizeImages.ts"]
+}

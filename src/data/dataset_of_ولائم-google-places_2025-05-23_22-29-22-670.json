@@ -1,0 +1,2116 @@
+[{
+  "title": "شركة مطاعم ومطابخ ومندي ضيافة العرب",
+  "price": "₹₹",
+  "categoryName": "مطعم",
+  "address": "4690 طريق الامام عبدالرحمن بن فيصل، النهضة، 47915 7559،، تبوك 47311، المملكة العربية السعودية",
+  "neighborhood": "النهضة",
+  "street": "4690 طريق الامام عبدالرحمن بن فيصل، النهضة، 47915 7559،",
+  "city": "تبوك",
+  "postalCode": "47311",
+  "state": null,
+  "countryCode": "SA",
+  "website": "http://0549720009.com/",
+  "phone": "+966 50 028 9817",
+  "phoneUnformatted": "+966500289817",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.3829338,
+    "lng": 36.5406132
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJbRC-Z0etqRURt1Jeb6dR8Kw",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15a9ad4767be106d:0xacf051a76f5e52b7",
+  "cid": "12461549948504003255",
+  "reviewsCount": 808,
+  "imagesCount": 139,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:10:20.866Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "الجمعة",
+      "hours": "9ص to 3:30ص"
+    },
+    {
+      "day": "السبت",
+      "hours": "9ص to 3:30ص"
+    },
+    {
+      "day": "الأحد",
+      "hours": "9ص to 3:30ص"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "9ص to 3:30ص"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "9ص to 3:30ص"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "9ص to 3:30ص"
+    },
+    {
+      "day": "الخميس",
+      "hours": "9ص to 3:30ص"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "من النشاط التجاري": [
+      {
+        "معرَّف كنشاط تجاري تملكه امرأة": true
+      }
+    ],
+    "خيارات الخدمة": [
+      {
+        "الإيصال إلى السيارة": true
+      },
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "خدمة الطلب أثناء القيادة": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "أهم السمات": [
+      {
+        "حلويات رائعة": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "العشاء الفردي": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "أماكن جلوس صالحة للكراسي المتحركة": true
+      },
+      {
+        "مدخل صالح للكراسي المتحركة": true
+      },
+      {
+        "موقف سيارات صالح للكراسي المتحركة": true
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "وجبات خفيفة": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      },
+      {
+        "الحلويات": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "عالي المستوى": true
+      },
+      {
+        "عصري": true
+      },
+      {
+        "مريح": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      },
+      {
+        "طلاب جامعيون": true
+      },
+      {
+        "مجموعات": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "حجوزات الغداء مُوصى بها": true
+      },
+      {
+        "يُنصح بإجراء حجوزات العشاء": true
+      },
+      {
+        "يقبل الحجوزات": true
+      },
+      {
+        "يلزم الانتظار عادةً": true
+      }
+    ],
+    "الدفعات": [
+      {
+        "الدفع على الأجهزة الجوّالة عبر NFC": true
+      },
+      {
+        "بطاقات ائتمان": true
+      },
+      {
+        "بطاقات سحب آلي": true
+      },
+      {
+        "بطاقات الائتمان": true
+      }
+    ],
+    "موقف سيارات": [
+      null,
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D8%B4%D8%B1%D9%83%D8%A9%20%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D9%88%D9%85%D9%86%D8%AF%D9%8A%20%D8%B6%D9%8A%D8%A7%D9%81%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8&query_place_id=ChIJbRC-Z0etqRURt1Jeb6dR8Kw",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@27.98327122198449,35.42310272433419,12z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqzYQd4Trxj0vjlBtBooUKBc-LY9aU3vfeVSd9cj43AlSxirLZq1WZtMi6El3T85sXdoZh-lisLY4sogrX6MbicCkAtGnVtyRpfRYvNoD91raqyyqmp6SPkP9qWor-qMYFOP6CX=w408-h285-k-no",
+  "kgmid": "/g/11h6lmzr96"
+},
+{
+  "title": "مطاعم ومطابخ ومندي الكرم",
+  "price": null,
+  "categoryName": "مطعم",
+  "address": "حي التعاون، محمد بن الخطيب، تبوك 47719، المملكة العربية السعودية",
+  "neighborhood": null,
+  "street": "حي التعاون، محمد بن الخطيب",
+  "city": "تبوك",
+  "postalCode": "47719",
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 53 649 2611",
+  "phoneUnformatted": "+966536492611",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.4184558,
+    "lng": 36.4632791
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ04edzaGvqRUR-5jjyew_JhM",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15a9afa1cd9d87d3:0x13263fecc9e398fb",
+  "cid": "1379860622067603707",
+  "reviewsCount": 169,
+  "imagesCount": 185,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:10:20.866Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "7:30ص to 1ص"
+    },
+    {
+      "day": "الأحد",
+      "hours": "7:30ص to 1ص"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "7:30ص to 1ص"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "7:30ص to 1ص"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "7:30ص to 1ص"
+    },
+    {
+      "day": "الخميس",
+      "hours": "7:30ص to 1ص"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "7:30ص to 1ص"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "الإيصال إلى السيارة": true
+      },
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "خدمة الطلب أثناء القيادة": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "العشاء الفردي": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "موقف سيارات صالح للكراسي المتحركة": true
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "مأكولات في ساعات متأخرة من الليل": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "وسائل الراحة": [
+      {
+        "مرحاض": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "مريح": true
+      },
+      {
+        "هادئ": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "يقبل الحجوزات": true
+      }
+    ],
+    "الدفعات": [
+      {
+        "بطاقات ائتمان": true
+      }
+    ],
+    "أطفال": [
+      {
+        "مناسب للأطفال": true
+      }
+    ],
+    "موقف سيارات": [
+      null,
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D9%88%D9%85%D9%86%D8%AF%D9%8A%20%D8%A7%D9%84%D9%83%D8%B1%D9%85&query_place_id=ChIJ04edzaGvqRUR-5jjyew_JhM",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@27.98327122198449,35.42310272433419,12z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2YHbDMoatRt2yV9u8wecYSpdK8geZE3-GvvOaiYkwFaeglAhnF0hSJEuWLOtwqb75kB9EJbCXavow4rXefdTBFWtk2_bRQ_LWMFLChbAdomTLX5vmdhQlJq6n_kgbHP2ndy9KjA=w408-h725-k-no",
+  "kgmid": "/g/11tf3xs3bp"
+},
+{
+  "title": "مطبخ و مندي العنود",
+  "price": null,
+  "categoryName": "مطعم",
+  "address": "7F23+P4V، الصفا، الوجه 48721، المملكة العربية السعودية",
+  "neighborhood": "الصفا",
+  "street": "7F23+P4V",
+  "city": "الوجه",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 50 236 3515",
+  "phoneUnformatted": "+966502363515",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 26.2518549,
+    "lng": 36.4527988
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJycBuRUrRsRUR15XSYlYn7KE",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15b1d14a456ec0c9:0xa1ec275662d295d7",
+  "cid": "11667743986588751319",
+  "reviewsCount": 68,
+  "imagesCount": 17,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:10:29.435Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "7ص to 12ص"
+    },
+    {
+      "day": "الأحد",
+      "hours": "7ص to 12ص"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "7ص to 12ص"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "7ص to 12ص"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "7ص to 12ص"
+    },
+    {
+      "day": "الخميس",
+      "hours": "7ص to 12ص"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "7ص to 12ص"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "العشاء الفردي": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "مدخل صالح للكراسي المتحركة": false
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "هادئ": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      }
+    ],
+    "موقف سيارات": [
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%A8%D8%AE%20%D9%88%20%D9%85%D9%86%D8%AF%D9%8A%20%D8%A7%D9%84%D8%B9%D9%86%D9%88%D8%AF&query_place_id=ChIJycBuRUrRsRUR15XSYlYn7KE",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@27.950128236924673,34.70451837483408,17z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noHSZ1RHzQCs1knS7jfgojYAPoFK2HFUBT6WpD_7v6ztiDPf5DZZOjDldQYSay4ZFGkFopLMw2VMJhr3ofzNj8EoYvT8PwroFvSkI5bZRd7RYgVOvLbJKRiL9GLSYNfkpYy_3hDew=w408-h544-k-no",
+  "kgmid": "/g/11gz9tby2g"
+},
+{
+  "title": "مطاعم و مندي ارياف الكبرى",
+  "price": null,
+  "categoryName": "مطعم",
+  "address": "KEGA3109، 3109 سلمة الأنصاري، 9087، حى طيبة،، تبوك 47735، المملكة العربية السعودية",
+  "neighborhood": null,
+  "street": "KEGA3109، 3109 سلمة الأنصاري، 9087، حى طيبة،",
+  "city": "تبوك",
+  "postalCode": "47735",
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 55 032 3807",
+  "phoneUnformatted": "+966550323807",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.4131751,
+    "lng": 36.4475774
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": true,
+  "placeId": "ChIJT9nhTMCvqRURVKGxuUck6XM",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15a9afc04ce1d94f:0x73e92447b9b1a154",
+  "cid": "8352246874411999572",
+  "reviewsCount": 132,
+  "imagesCount": 8,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:10:29.435Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "موقف سيارات صالح للكراسي المتحركة": true
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "وجبات خفيفة": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "أطفال": [
+      {
+        "مناسب للأطفال": true
+      }
+    ],
+    "موقف سيارات": [
+      null,
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%20%D9%85%D9%86%D8%AF%D9%8A%20%D8%A7%D8%B1%D9%8A%D8%A7%D9%81%20%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89&query_place_id=ChIJT9nhTMCvqRURVKGxuUck6XM",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@27.950128236924673,34.70451837483408,17z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFTHgcHXtkwBCDnFoBs17FPjf5S2q_LW19jsUc=w408-h725-k-no",
+  "kgmid": "/g/11t2w5_v7r"
+},
+{
+  "title": "مندي ومطبخ التيسير",
+  "price": null,
+  "categoryName": "مطعم عربي",
+  "address": "شارع عبدالرحمن بن فيصل، النهضة، تبوك 47910، المملكة العربية السعودية",
+  "neighborhood": "النهضة",
+  "street": "شارع عبدالرحمن بن فيصل",
+  "city": "تبوك",
+  "postalCode": "47910",
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 50 735 1514",
+  "phoneUnformatted": "+966507351514",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.3845626,
+    "lng": 36.5389321
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQYwpKwutqRURyC5nYbEWRFs",
+  "categories": [
+    "مطعم عربي"
+  ],
+  "fid": "0x15a9ad0b2b298c41:0x5b4416b161672ec8",
+  "cid": "6576406306966941384",
+  "reviewsCount": 77,
+  "imagesCount": 17,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:10:31.852Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "8ص to 12:30ص"
+    },
+    {
+      "day": "الأحد",
+      "hours": "8ص to 12:30ص"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "8ص to 12:30ص"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "8ص to 12:30ص"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "8ص to 12:30ص"
+    },
+    {
+      "day": "الخميس",
+      "hours": "8ص to 12:30ص"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "8ص to 12:30ص"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "الإيصال إلى السيارة": true
+      },
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "خدمة الطلب أثناء القيادة": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "مريح": true
+      },
+      {
+        "هادئ": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "مجموعات": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "يقبل الحجوزات": true
+      }
+    ],
+    "موقف سيارات": [
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D9%86%D8%AF%D9%8A%20%D9%88%D9%85%D8%B7%D8%A8%D8%AE%20%D8%A7%D9%84%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1&query_place_id=ChIJQYwpKwutqRURyC5nYbEWRFs",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@28.45964256997416,37.25639705000003,12z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrayUm-hhQTSlHtVT_NyA6w-TYYup0SEdEwN-1yasFAcaoKqjucGM1kInIxJF0xqnvD98mR91hvLNGov9Q03RYdwpsEa6HX9sJgyj9aaJsIuz0wTwPW1PPyXe3vE1UWAb5nVR8KlA=w408-h544-k-no",
+  "kgmid": "/g/11vkh42h85"
+},
+{
+  "title": "مطعم ومطبخ ومندي الساحل",
+  "price": null,
+  "categoryName": "مطعم عائلي",
+  "address": "4640 طريق الامام عبدالرحمن بن فيصل، النهضة، تبوك 47915 7585، المملكة العربية السعودية",
+  "neighborhood": "النهضة",
+  "street": "4640 طريق الامام عبدالرحمن بن فيصل، النهضة، تبوك 47915 7585،",
+  "city": "تبوك",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 55 137 4412",
+  "phoneUnformatted": "+966551374412",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.3839035,
+    "lng": 36.5405013
+  },
+  "totalScore": 3.8,
+  "permanentlyClosed": true,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ0SDGGCitqRURJZqUI5ptgq4",
+  "categories": [
+    "مطعم عائلي"
+  ],
+  "fid": "0x15a9ad2818c620d1:0xae826d9a23949a25",
+  "cid": "12574733618361178661",
+  "reviewsCount": 64,
+  "imagesCount": 25,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:10:36.985Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "الإيصال إلى السيارة": true
+      },
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "خدمة الطلب أثناء القيادة": true
+      },
+      {
+        "طعام سفري": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "الحجوزات مطلوبة": true
+      },
+      {
+        "يقبل الحجوزات": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A8%D8%AE%20%D9%88%D9%85%D9%86%D8%AF%D9%8A%20%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84&query_place_id=ChIJ0SDGGCitqRURJZqUI5ptgq4",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@29.650570939948334,36.47069948185753,12z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCLFhw0bh2Fx7omF2fEWcDcgjEAOaj1sUAaYABdeW0l4NIN7Mc4akJi-4RrqzbzHHrdfw06MU5VgT6cGJ0BlwkV-7dXTARUo7HR0Z_9EMt5TDvrz-I6hMEn49uxYgShjIS7fZj=w408-h306-k-no",
+  "kgmid": "/g/11q8y5mt_c"
+},
+{
+  "title": "مندي البحر الاحمر( أركان المائدة 1)",
+  "price": "₹₹",
+  "categoryName": "مطعم",
+  "address": "Saudi، حقل 49938، المملكة العربية السعودية",
+  "neighborhood": "الظهرة",
+  "street": "Saudi",
+  "city": "حقل",
+  "postalCode": "49938",
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 53 279 0768",
+  "phoneUnformatted": "+966532790768",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 29.2848648,
+    "lng": 34.95738
+  },
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJD_8_INGbqhURCiwrAtoJDLI",
+  "categories": [
+    "مطعم",
+    "مطعم أرز"
+  ],
+  "fid": "0x15aa9bd1203fff0f:0xb20c09da022b2c0a",
+  "cid": "12829640270415604746",
+  "reviewsCount": 167,
+  "imagesCount": 73,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:10:39.059Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "الجمعة",
+      "hours": "10ص to 4:30ص"
+    },
+    {
+      "day": "السبت",
+      "hours": "10ص to 4:30ص"
+    },
+    {
+      "day": "الأحد",
+      "hours": "8ص to 4:30ص"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "8ص to 4:30ص"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الخميس",
+      "hours": "10ص to 4:30ص"
+    }
+  ],
+  "additionalOpeningHours": {
+    "المطبخ": [
+      {
+        "day": "السبت",
+        "hours": "نعمل على مدار 24 ساعة"
+      },
+      {
+        "day": "الأحد",
+        "hours": "نعمل على مدار 24 ساعة"
+      },
+      {
+        "day": "الاثنين",
+        "hours": "نعمل على مدار 24 ساعة"
+      },
+      {
+        "day": "الثلاثاء",
+        "hours": "نعمل على مدار 24 ساعة"
+      },
+      {
+        "day": "الأربعاء",
+        "hours": "نعمل على مدار 24 ساعة"
+      },
+      {
+        "day": "الخميس",
+        "hours": "نعمل على مدار 24 ساعة"
+      },
+      {
+        "day": "الجمعة",
+        "hours": "نعمل على مدار 24 ساعة"
+      }
+    ]
+  },
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "العشاء الفردي": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "مدخل صالح للكراسي المتحركة": false
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "وجبات خفيفة": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "فطور": true
+      },
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "عصري": true
+      },
+      {
+        "مريح": true
+      },
+      {
+        "هادئ": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      },
+      {
+        "طلاب جامعيون": true
+      },
+      {
+        "مجموعات": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "يقبل الحجوزات": true
+      }
+    ],
+    "أطفال": [
+      {
+        "مناسب للأطفال": true
+      }
+    ],
+    "موقف سيارات": [
+      null,
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D9%86%D8%AF%D9%8A%20%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%20%D8%A7%D9%84%D8%A7%D8%AD%D9%85%D8%B1(%20%D8%A3%D8%B1%D9%83%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9%201)&query_place_id=ChIJD_8_INGbqhURCiwrAtoJDLI",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@29.174199591958665,35.16120353495336,12z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8iJmhpL7TRbqDLwk9RAQzRffQCl-htYmZvYHq2IoqQ4K-OsIw0Kz9vyNEPPj16AI-ByzC4PK7NG_q8ske-j4VDb06meRh37QnCOlxAX50VPFNZZ1hyLXmcz_sdHevFWHZgS-u=w408-h725-k-no",
+  "kgmid": "/g/11c1txz08v"
+},
+{
+  "title": "مطعم القطيشات",
+  "price": "€€",
+  "categoryName": "مطعم",
+  "address": "3546 طريق الملك سعود، الفيصليةالجنوبية، تبوك 47911، المملكة العربية السعودية",
+  "neighborhood": "الفيصليةالجنوبية",
+  "street": "3546 طريق الملك سعود",
+  "city": "تبوك",
+  "postalCode": "47911",
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 53 458 8484",
+  "phoneUnformatted": "+966534588484",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.3904305,
+    "lng": 36.5801744
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJBbwz9RCtqRURZoTzSS0uXio",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15a9ad10f533bc05:0x2a5e2e2d49f38466",
+  "cid": "3052928369452876902",
+  "reviewsCount": 1774,
+  "imagesCount": 653,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:26:47.190Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الأحد",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الخميس",
+      "hours": "9ص to 12ص"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "9ص to 12ص"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "الإيصال إلى السيارة": true
+      },
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "خدمة الطلب أثناء القيادة": true
+      },
+      {
+        "طعام سفري": true
+      }
+    ],
+    "أهم السمات": [
+      {
+        "حلويات رائعة": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "مدخل صالح للكراسي المتحركة": true
+      },
+      {
+        "موقف سيارات صالح للكراسي المتحركة": true
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "خيارات خالية من المنتجات الحيوانية": true
+      },
+      {
+        "خيارات نباتية": true
+      },
+      {
+        "وجبات خفيفة": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "فطور": true
+      },
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      },
+      {
+        "الحلويات": true
+      }
+    ],
+    "وسائل الراحة": [
+      {
+        "مرحاض": false
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "عالي المستوى": true
+      },
+      {
+        "عصري": true
+      },
+      {
+        "مريح": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      },
+      {
+        "طلاب جامعيون": true
+      },
+      {
+        "مجموعات": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "حجوزات الغداء مُوصى بها": true
+      },
+      {
+        "يُنصح بإجراء حجوزات العشاء": true
+      },
+      {
+        "يقبل الحجوزات": true
+      }
+    ],
+    "الدفعات": [
+      {
+        "بطاقات ائتمان": true
+      }
+    ],
+    "أطفال": [
+      {
+        "مناسب للأطفال": true
+      }
+    ],
+    "موقف سيارات": [
+      null,
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%B9%D9%85%20%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D8%B4%D8%A7%D8%AA&query_place_id=ChIJBbwz9RCtqRURZoTzSS0uXio",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@28.221456895979326,36.732598671238364,12z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgB-LSLaOp-0nDKx5lrVvtL5DTGCM4r-uzB-iItaRxp_h0jIyXB98Z5V0HBkLONimJgY8OOCeob-h5nDBDJz_aSIo5UTu4bmhQRh1g9ro0MlFF57O1JLu21YUn8NQp1FBFN38=w408-h725-k-no",
+  "kgmid": "/g/11bzwnhzdq"
+},
+{
+  "title": "استراحة رهف للمناسبات والاحتفالات",
+  "price": null,
+  "categoryName": "قاعة حفلات",
+  "address": "FJ83+VX7، منطقة الزراعية 47341، المملكة العربية السعودية",
+  "neighborhood": "منطقة الزراعية",
+  "street": "FJ83+VX7",
+  "city": null,
+  "postalCode": null,
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 53 279 2581",
+  "phoneUnformatted": "+966532792581",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 28.4671688,
+    "lng": 36.6049281
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJYYsi9jOzqRUR2GbpMSUIlac",
+  "categories": [
+    "قاعة حفلات"
+  ],
+  "fid": "0x15a9b333f6228b61:0xa795082531e966d8",
+  "cid": "12075566931708045016",
+  "reviewsCount": 283,
+  "imagesCount": 97,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:28:18.682Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأحد",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الخميس",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "نعمل على مدار 24 ساعة"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "خدمة التوصيل": false
+      },
+      {
+        "طعام سفري": false
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "مدخل صالح للكراسي المتحركة": true
+      },
+      {
+        "موقف سيارات صالح للكراسي المتحركة": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%A9%20%D8%B1%D9%87%D9%81%20%D9%84%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D8%A7%D8%AA&query_place_id=ChIJYYsi9jOzqRUR2GbpMSUIlac",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D9%84%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@28.45964256997416,36.732598671238364,12z?hl=ar",
+  "searchString": "مطاعم ومطابخ للمناسبات والأعراس",
+  "language": "ar",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noH54r7Sr6ysy3acJrszZ34_0j9tRmZKcBtJna_-_xHP7QQHpfsiNo5RAceim4xLrdYdTcV6PUL7d_RKG7l5j_UxpCgdtwGbTQFE83UCWwIlpbFO1PqUSfmjNaIYxruxTaHnHkH=w408-h725-k-no",
+  "kgmid": "/g/11ggs5_3hs"
+},
+{
+  "title": "مطاعم ومطابخ جمرة",
+  "price": "₹₹",
+  "categoryName": "مطعم",
+  "address": "طريق الأمير سلطان مقابل أسترا(1)،، تبوك 47911، المملكة العربية السعودية",
+  "neighborhood": "الروضة",
+  "street": "طريق الأمير سلطان مقابل أسترا(1)،",
+  "city": "تبوك",
+  "postalCode": "47911",
+  "state": null,
+  "countryCode": "SA",
+  "website": "https://maps.app.goo.gl/oocPUqK3Kvcko7Jd8",
+  "phone": "+966 55 458 8369",
+  "phoneUnformatted": "+966554588369",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.4042035,
+    "lng": 36.5354344
+  },
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQZYWWh2tqRURiT-XbvwsTuM",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15a9ad1d5a169641:0xe34e2cfc6e973f89",
+  "cid": "16379078357491859337",
+  "reviewsCount": 289,
+  "imagesCount": 264,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:29:01.617Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأحد",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الخميس",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "نعمل على مدار 24 ساعة"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "الإيصال إلى السيارة": true
+      },
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "خدمة الطلب أثناء القيادة": true
+      },
+      {
+        "الخدمات في الموقع": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "أهم السمات": [
+      {
+        "الألعاب الرياضية": true
+      },
+      {
+        "حلويات رائعة": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "العشاء الفردي": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "حلقة سمع تلبّي احتياجات المستهلك": true
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "وجبات خفيفة": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "فطور": true
+      },
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      },
+      {
+        "الحلويات": true
+      },
+      {
+        "أماكن الجلوس": true
+      }
+    ],
+    "وسائل الراحة": [
+      {
+        "دورة مياه للجنسين": true
+      },
+      {
+        "مرحاض": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "عالي المستوى": true
+      },
+      {
+        "مريح": true
+      },
+      {
+        "هادئ": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      },
+      {
+        "مجموعات": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "يُنصح بإجراء حجوزات العشاء": true
+      },
+      {
+        "يقبل الحجوزات": true
+      }
+    ],
+    "أطفال": [
+      {
+        "الكراسي العالية": true
+      },
+      {
+        "تتوفّر طاولات لتغيير الحفاضات.": true
+      },
+      {
+        "قائمة الأطفال": true
+      },
+      {
+        "مناسب للأطفال": true
+      }
+    ],
+    "موقف سيارات": [
+      {
+        "تتوفر مواقف للسيارات في الموقع": true
+      },
+      {
+        "خدمة ركن السيارات": true
+      },
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%AC%D9%85%D8%B1%D8%A9&query_place_id=ChIJQZYWWh2tqRURiT-XbvwsTuM",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D9%84%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@28.408808189855023,36.52412937296659,16z?hl=ar",
+  "searchString": "مطاعم ومطابخ للمناسبات والأعراس",
+  "language": "ar",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh6.googleusercontent.com/z8iWudqpOLzverW9NFFNAXPEFyYy5GTgvGaqUYyva4fHCRQZUWkbXex2WAmQ7UUK=w426-h240-k-no",
+  "kgmid": "/g/11cm0fc52f"
+},
+{
+  "title": "مطعم اصالة الديرة",
+  "price": "₹₹",
+  "categoryName": "مطعم",
+  "address": "المصيف، تبوك 47321،، المملكة العربية السعودية",
+  "neighborhood": "المصيف",
+  "street": null,
+  "city": "تبوك",
+  "postalCode": "47321،",
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 58 162 1644",
+  "phoneUnformatted": "+966581621644",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 28.441827,
+    "lng": 36.5392399
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJiUQf-GqzqRURSONVq3TFaq0",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15a9b36af81f4489:0xad6ac574ab55e348",
+  "cid": "12496017220974273352",
+  "reviewsCount": 502,
+  "imagesCount": 291,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:29:01.617Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "الجمعة",
+      "hours": "7ص to 2ص"
+    },
+    {
+      "day": "السبت",
+      "hours": "7ص to 2ص"
+    },
+    {
+      "day": "الأحد",
+      "hours": "7ص to 2ص"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "7ص to 2ص"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "7ص to 2ص"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "7ص to 2ص"
+    },
+    {
+      "day": "الخميس",
+      "hours": "7ص to 2ص"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "من النشاط التجاري": [
+      {
+        "معرَّف كنشاط تجاري تملكه امرأة": true
+      }
+    ],
+    "خيارات الخدمة": [
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "العشاء الفردي": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "أماكن جلوس صالحة للكراسي المتحركة": true
+      },
+      {
+        "مدخل صالح للكراسي المتحركة": true
+      },
+      {
+        "موقف سيارات صالح للكراسي المتحركة": true
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "وجبات خفيفة": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "عالي المستوى": true
+      },
+      {
+        "عصري": true
+      },
+      {
+        "مريح": true
+      },
+      {
+        "هادئ": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      },
+      {
+        "طلاب جامعيون": true
+      },
+      {
+        "مجموعات": true
+      },
+      {
+        "مناسب للعائلة": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "حجوزات الغداء مُوصى بها": true
+      },
+      {
+        "الحجوزات مطلوبة": true
+      },
+      {
+        "يُنصح بإجراء حجوزات العشاء": true
+      },
+      {
+        "يقبل الحجوزات": true
+      },
+      {
+        "يلزم الانتظار عادةً": true
+      }
+    ],
+    "الدفعات": [
+      {
+        "بطاقات ائتمان": true
+      }
+    ],
+    "موقف سيارات": [
+      {
+        "خدمة ركن السيارات": true
+      },
+      {
+        "مرآب مجاني للسيارات": true
+      },
+      null,
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%B9%D9%85%20%D8%A7%D8%B5%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D8%AF%D9%8A%D8%B1%D8%A9&query_place_id=ChIJiUQf-GqzqRURSONVq3TFaq0",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D9%84%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@28.408808189855023,36.52412937296659,16z?hl=ar",
+  "searchString": "مطاعم ومطابخ للمناسبات والأعراس",
+  "language": "ar",
+  "rank": 7,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN7m2NwT7UqCNPlSR3Zkes3CmszN-Nj4HavA4nz=w408-h544-k-no",
+  "kgmid": "/g/11hz8l47g5"
+},
+{
+  "title": "مطبخ ومندي التوفيق",
+  "price": null,
+  "categoryName": "مطعم",
+  "address": "3691، العوايشة، 8878، تبوك 47914، المملكة العربية السعودية",
+  "neighborhood": "العوايشة",
+  "street": "3691، 8878",
+  "city": "تبوك",
+  "postalCode": "47914",
+  "state": null,
+  "countryCode": "SA",
+  "phone": "+966 55 659 4454",
+  "phoneUnformatted": "+966556594454",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 28.3862973,
+    "lng": 36.5616122
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJaeUB_e6tqRURzRSiO7pKGs0",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15a9adeefd01e569:0xcd1a4aba3ba214cd",
+  "cid": "14779207290894554317",
+  "reviewsCount": 14,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:29:01.617Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأحد",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الخميس",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "نعمل على مدار 24 ساعة"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "مجموعات": true
+      }
+    ],
+    "التخطيط": [
+      {
+        "يقبل الحجوزات": true
+      }
+    ],
+    "موقف سيارات": [
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%A8%D8%AE%20%D9%88%D9%85%D9%86%D8%AF%D9%8A%20%D8%A7%D9%84%D8%AA%D9%88%D9%81%D9%8A%D9%82&query_place_id=ChIJaeUB_e6tqRURzRSiO7pKGs0",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D9%84%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@28.408808189855023,36.52412937296659,16z?hl=ar",
+  "searchString": "مطاعم ومطابخ للمناسبات والأعراس",
+  "language": "ar",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npL_tGtYK-ZGtfl-Y5z0_ahDs-jYVFmSIF88fDJf5LKzYtVDyeA1ec-jKzvkRtlGz_Hf8dxQ2WOV2F7svvTlb4K7-IBDBFs5RFNuxZf2wflhpUijhYMdcky5qnW9aczY3kuRM2y0Q=w408-h306-k-no",
+  "kgmid": "/g/11h0d6p7rh"
+},
+{
+  "title": "مطعم روز للضيافه",
+  "price": null,
+  "categoryName": "مطعم",
+  "address": "6FW9+MMP، الوجه 48721، المملكة العربية السعودية",
+  "neighborhood": null,
+  "street": "6FW9+MMP",
+  "city": "الوجه",
+  "postalCode": "48721",
+  "state": null,
+  "countryCode": "SA",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 26.2467045,
+    "lng": 36.4691917
+  },
+  "totalScore": 3.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJWcK5QPXRsRURVvpFJFSrFAM",
+  "categories": [
+    "مطعم"
+  ],
+  "fid": "0x15b1d1f540b9c259:0x314ab542445fa56",
+  "cid": "221990659522165334",
+  "reviewsCount": 143,
+  "imagesCount": 55,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-23T22:29:22.645Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "السبت",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأحد",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الاثنين",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الثلاثاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الأربعاء",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الخميس",
+      "hours": "نعمل على مدار 24 ساعة"
+    },
+    {
+      "day": "الجمعة",
+      "hours": "نعمل على مدار 24 ساعة"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "خيارات الخدمة": [
+      {
+        "التسليم بدون تلامس": true
+      },
+      {
+        "خدمة التوصيل": true
+      },
+      {
+        "طعام سفري": true
+      },
+      {
+        "الجلوس داخل المكان": true
+      }
+    ],
+    "يشتهر بـ": [
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "العشاء الفردي": true
+      }
+    ],
+    "إمكانية الوصول": [
+      {
+        "أماكن جلوس صالحة للكراسي المتحركة": true
+      },
+      {
+        "مدخل صالح للكراسي المتحركة": true
+      },
+      {
+        "موقف سيارات صالح للكراسي المتحركة": true
+      }
+    ],
+    "الخدمات المقدّمة": [
+      {
+        "مأكولات في ساعات متأخرة من الليل": true
+      },
+      {
+        "مطعم وجبات سريعة": true
+      },
+      {
+        "وجبات خفيفة": true
+      }
+    ],
+    "خيارات تناول الطعام": [
+      {
+        "إفطار متأخر": true
+      },
+      {
+        "الغداء": true
+      },
+      {
+        "العشاء": true
+      },
+      {
+        "خدمات التزويد بالطعام": true
+      }
+    ],
+    "وسائل الراحة": [
+      {
+        "مرحاض": true
+      }
+    ],
+    "الأجواء": [
+      {
+        "خفيفة": true
+      },
+      {
+        "مريح": true
+      }
+    ],
+    "الجمهور": [
+      {
+        "سياح": true
+      },
+      {
+        "طلاب جامعيون": true
+      },
+      {
+        "مجموعات": true
+      }
+    ],
+    "الدفعات": [
+      {
+        "بطاقات ائتمان": true
+      }
+    ],
+    "أطفال": [
+      {
+        "مناسب للأطفال": true
+      }
+    ],
+    "موقف سيارات": [
+      null,
+      {
+        "موقف سيارات مجاني": true
+      },
+      {
+        "موقف سيارات مجاني في الشارع": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B7%D8%B9%D9%85%20%D8%B1%D9%88%D8%B2%20%D9%84%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D9%87&query_place_id=ChIJWcK5QPXRsRURVvpFJFSrFAM",
+  "searchPageUrl": "https://www.google.com/maps/search/%D9%85%D8%B7%D8%A7%D8%B9%D9%85%20%D9%88%D9%85%D8%B7%D8%A7%D8%A8%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3/@26.2444191,36.4446860577772,17z?hl=ar",
+  "searchString": "مطاعم ومطابخ المناسبات والأعراس",
+  "language": "ar",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEgwauM3h08V7JKDiHVArqGcVKEeRRWrJ9MPYfhfHeN2awoe0eC-k1uM3yVJtnWn5ydKyo-ZQNnQKOqB--INdRVfid9A3iNqz37HZZSczwk8pr-lmiT48g4G4UjUUzW2sIroHR=w408-h544-k-no",
+  "kgmid": "/g/11srv5ktfh"
+}]

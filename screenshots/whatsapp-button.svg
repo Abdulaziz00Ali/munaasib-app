@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  <rect x="24" y="24" width="1152" height="704" fill="#ffffff" stroke="#e5e7eb"/>
+  <!-- Floating WhatsApp button positioned similar to fixed bottom-20 right-5 -->
+  <circle cx="1116" cy="620" r="36" fill="#22c55e"/>
+  <!-- Simplified WhatsApp glyph -->
+  <path d="M1107 610 c10 14 22 22 30 24 3 1 7-1 9-3 l6 6 c-2 4-6 8-12 10 -12 4-30-4-46-20 -16-16-24-34-20-46 2-6 6-10 10-12 l6 6 c-2 2-4 6-3 9 2 8 10 20 24 30z" fill="#ffffff"/>
+  <text x="1116" y="678" font-size="16" text-anchor="middle" fill="#111827" font-family="Tahoma, Arial">زر واتساب العائم</text>
+</svg>
