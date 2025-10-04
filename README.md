@@ -1,5 +1,7 @@
 # Munaasib Event Compass App
 
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel)](https://munaasib-app.vercel.app) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Abdulaziz00Ali/munaasib-app)
+
 القيمة المقترحة في سطرين:
 - منصّة تربط العملاء مباشرةً بأصحاب القاعات والمطابخ ومزوّدي الخدمات لتجربة حجز سريعة وموثوقة بواجهة عربية متوافقة مع الجوال.
 - نوفّر اكتشافًا ذكيًا، تواصلًا فوريًا، وحجوزات مبسطة تدعم نمو المزوّدين وتمنح العملاء راحة وشفافية.
@@ -7,6 +9,12 @@
 مزيد من التفاصيل والعرض الحي متاح عبر صفحة المستثمرين داخل التطبيق: انتقل إلى المسار المحلي /investors بعد تشغيل الخادم.
 
 A React-based event planning application for managing venues, halls, kitchens, and other event-related services. The application is built with a focus on Arabic language support and RTL layout.
+
+## روابط سريعة
+
+- النسخة الحية: https://munaasib-app.vercel.app
+- نطاق العرض: https://demo.munaasib.app
+- مسارات التحقق: `/investors`, `/privacy`, `/terms`, `/vendor`, `/category`
 
 ## Prerequisites
 
@@ -33,7 +41,7 @@ npm i
 npm run dev
 ```
 
-The development server will start at `http://localhost:8080` by default.
+The development server will start at `http://localhost:5173` by default.
 
 ## Building for Production
 
@@ -116,11 +124,17 @@ VITE_WHATSAPP_NUMBER=966500000000
    - Output directory: `dist`
 4. Add the environment variables in the Vercel dashboard under Settings > Environment Variables
 5. Configure SPA routing by adding a `vercel.json` file in the root directory:
-   ```json
-   {
+  ```json
+  {
      "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
-   }
-   ```
+  }
+  ```
+
+#### Live Demo
+- Production: `https://munaasib-app.vercel.app`
+- Preview/Custom Domain: `https://demo.munaasib.app`
+
+Add your DNS `CNAME` to point `demo.munaasib.app` to `cname.vercel-dns.com`.
 
 ## Technologies Used
 
@@ -139,10 +153,22 @@ VITE_WHATSAPP_NUMBER=966500000000
 - RTL support for Arabic language
 - Google Maps integration for venue locations
 
+## GitHub Repository Description (للوصف أعلى الصفحة)
+
+Munaasib — تطبيق عربي لاكتشاف وحجز القاعات والمطابخ ومزوّدي الخدمات في المملكة والخليج. واجهة RTL، فلترة ذكية، وروابط واتساب فورية للتواصل والحجز. جاهز للنشر على Vercel مع صفحات قانونية وSEO عربي.
+
+يمكنك نسخ هذا الوصف إلى خانة "Description" في صفحة المستودع على GitHub.
+
 ## Sale Pack (للمشترين)
 - تم إضافة حزمة بيع جاهزة في `sale-pack/`:
   - `SALE_MEMO.md`: مذكرة بيع شاملة.
   - `ASSET_LIST.md`: قائمة الأصول المنقولة.
   - `OPERATIONS_GUIDE.md`: دليل التشغيل السريع (ديمو/بناء/نشر).
   - `DEMO_PITCH.md`: خطاب عرض مختصر للمراسلة.
-  - `SCREENSHOT_SHOTLIST.md`: قائمة اللقطات المطلوبة وأحجام الشاشة.
+- `SCREENSHOT_SHOTLIST.md`: قائمة اللقطات المطلوبة وأحجام الشاشة.
+
+## Checklist للتحقق السريع
+- يعمل على `Vercel` مع إعادة كتابة SPA عبر `vercel.json`.
+- روابط قانونية: `/privacy` و`/terms` موجودة في `Navbar` و`Footer`.
+- بيئة العرض: `VITE_DEMO_MODE=true` و`VITE_WHATSAPP_NUMBER=9665XXXXXXXX` موثقة في `.env.example`.
+- مسارات رئيسية فعّالة: `/vendor`, `/investors`, `/category`.
