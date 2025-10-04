@@ -1,5 +1,7 @@
 # Munaasib Event Compass App
 
+![Live Demo](screenshots/demo-badge.svg)
+
 [![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel)](https://munaasib-app.vercel.app) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Abdulaziz00Ali/munaasib-app)
 
 القيمة المقترحة في سطرين:
@@ -13,7 +15,7 @@ A React-based event planning application for managing venues, halls, kitchens, a
 ## روابط سريعة
 
 - النسخة الحية: https://munaasib-app.vercel.app
-- نطاق العرض: https://demo.munaasib.app
+- نطاق العرض (اختياري): https://demo.munaasib.app
 - مسارات التحقق: `/investors`, `/privacy`, `/terms`, `/vendor`, `/category`
 
 ## Prerequisites
@@ -132,7 +134,7 @@ VITE_WHATSAPP_NUMBER=966500000000
 
 #### Live Demo
 - Production: `https://munaasib-app.vercel.app`
-- Preview/Custom Domain: `https://demo.munaasib.app`
+- Preview/Custom Domain (اختياري): `https://demo.munaasib.app`
 
 Add your DNS `CNAME` to point `demo.munaasib.app` to `cname.vercel-dns.com`.
 
@@ -152,6 +154,13 @@ Add your DNS `CNAME` to point `demo.munaasib.app` to `cname.vercel-dns.com`.
 - Responsive design for mobile and desktop
 - RTL support for Arabic language
 - Google Maps integration for venue locations
+
+## Screenshots
+- راجع `sale-pack/SCREENSHOT_SHOTLIST.md` لقائمة اللقطات المقترحة.
+- أمثلة صور توضيحية داخل `screenshots/`:
+  - `whatsapp-button.svg`
+  - `map-placeholder.svg`
+  - `no-results-message.svg`
 
 ## GitHub Repository Description (للوصف أعلى الصفحة)
 
