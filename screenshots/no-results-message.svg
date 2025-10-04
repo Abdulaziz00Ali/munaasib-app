@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
-  <rect width="1200" height="800" fill="#f8fafc"/>
-  <rect x="24" y="24" width="1152" height="704" fill="#ffffff" stroke="#e5e7eb"/>
-  <text x="600" y="360" font-size="22" text-anchor="middle" fill="#6b7280" font-family="Tahoma, Arial">لا توجد نتائج مطابقة لبحثك</text>
-  <text x="600" y="400" font-size="14" text-anchor="middle" fill="#9ca3af" font-family="Tahoma, Arial">الرسالة تظهر عند عدم وجود نتائج بعد التصفية أو البحث</text>
-</svg>

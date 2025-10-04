@@ -1,8 +1,6 @@
 # Munaasib Event Compass App
 
-![Live Demo](screenshots/demo-badge.svg)
-
-[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel)](https://munaasib-app.vercel.app) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Abdulaziz00Ali/munaasib-app)
+[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel)](https://munaasib-app.vercel.app)
 
 القيمة المقترحة في سطرين:
 - منصّة تربط العملاء مباشرةً بأصحاب القاعات والمطابخ ومزوّدي الخدمات لتجربة حجز سريعة وموثوقة بواجهة عربية متوافقة مع الجوال.
@@ -15,7 +13,6 @@ A React-based event planning application for managing venues, halls, kitchens, a
 ## روابط سريعة
 
 - النسخة الحية: https://munaasib-app.vercel.app
-- نطاق العرض (اختياري): https://demo.munaasib.app
 - مسارات التحقق: `/investors`, `/privacy`, `/terms`, `/vendor`, `/category`
 
 ## Prerequisites
@@ -95,27 +92,6 @@ VITE_WHATSAPP_NUMBER=966500000000
 - `VITE_WHATSAPP_NUMBER`: WhatsApp contact number used for customer support and demo flows. Use international format as digits only (no symbols), e.g., 9665XXXXXXXX.
 
 ## Deployment
-
-### Deploying to Netlify
-
-1. Push your code to a Git repository (GitHub, GitLab, or Bitbucket)
-2. Log in to Netlify and click "New site from Git"
-3. Select your repository and configure the following settings:
-   - Build command: `npm run build`
-   - Publish directory: `dist`
-4. Add the environment variables in the Netlify dashboard under Site settings > Environment variables
-5. Enable SPA routing by creating a `_redirects` file in the `public` directory with:
-   ```
-   /* /index.html 200
-   ```
-   or by adding the following to `netlify.toml` in the root directory:
-   ```toml
-   [[redirects]]
-     from = "/*"
-     to = "/index.html"
-     status = 200
-   ```
-
 ### Deploying to Vercel
 
 1. Push your code to a Git repository
@@ -133,10 +109,7 @@ VITE_WHATSAPP_NUMBER=966500000000
   ```
 
 #### Live Demo
-- Production: `https://munaasib-app.vercel.app`
-- Preview/Custom Domain (اختياري): `https://demo.munaasib.app`
-
-Add your DNS `CNAME` to point `demo.munaasib.app` to `cname.vercel-dns.com`.
+- Production: https://munaasib-app.vercel.app
 
 ## Technologies Used
 
@@ -156,11 +129,7 @@ Add your DNS `CNAME` to point `demo.munaasib.app` to `cname.vercel-dns.com`.
 - Google Maps integration for venue locations
 
 ## Screenshots
-- راجع `sale-pack/SCREENSHOT_SHOTLIST.md` لقائمة اللقطات المقترحة.
-- أمثلة صور توضيحية داخل `screenshots/`:
-  - `whatsapp-button.svg`
-  - `map-placeholder.svg`
-  - `no-results-message.svg`
+سيتم إضافة لقطات شاشة منظمة في مرحلة "اليوم 2". لا توجد أصول غير لازمة ضمن المشروع بعد التنظيف.
 
 ## GitHub Repository Description (للوصف أعلى الصفحة)
 
